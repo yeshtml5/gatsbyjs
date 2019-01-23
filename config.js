@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://yeshtml5.com',
   title: 'YESHTML5.com',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: '',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-121068312-1',
@@ -15,6 +15,10 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
+    },
+    {
+      label: 'Libraries & link',
+      path: '/pages/link'
     },
     {
       label: 'Contact me',
