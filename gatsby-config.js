@@ -157,9 +157,9 @@ module.exports = {
         short_name: siteConfig.title,
         start_url: '/',
         background_color: '#FFF',
-        theme_color: '#F7A046',
+        theme_color: '#f75e28',
         display: 'standalone',
-        icon: 'static/photo.jpg'
+        icon: 'static/images/favicon.png'
       },
     },
     'gatsby-plugin-offline',

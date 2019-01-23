@@ -1,6 +1,6 @@
 ---
 template: page
-title: "Libraries && Useful link"
+title: "Libraries & Useful link"
 draft: false
 ---
 ####  Util

@@ -17,6 +17,14 @@ module.exports = {
       path: '/pages/about'
     },
     {
+      label: 'Tags',
+      path: '/tags'
+    },
+    {
+      label: 'Categories',
+      path: '/categories'
+    },
+    {
       label: 'Libraries & link',
       path: '/pages/link'
     },
@@ -27,7 +35,7 @@ module.exports = {
   ],
   author: {
     name: 'YESHTML5',
-    photo: '/photo.jpg',
+    photo: '/images/photo.jpg',
     bio: 'GatsbyJS / ReactJS / NodeJS / HTML5 / CSS3',
     contacts: {
       email: 'yeshtml5@gmail.com',

@@ -13,29 +13,21 @@ const IndexTemplate = ({ data, pageContext }) => {
   } = data.site.siteMetadata;
 
   const {
-    currentPage,
-    hasNextPage,
-    hasPrevPage,
-    prevPagePath,
-    nextPagePath
+    currentPage, hasNextPage, hasPrevPage, prevPagePath, nextPagePath
   } = pageContext;
 
   const { edges } = data.allMarkdownRemark;
   const pageTitle = currentPage > 0 ? `Posts - Page ${currentPage} - ${siteTitle}` : siteTitle;
 
   return (
-    <Layout title={pageTitle} description={siteSubtitle}>
-      <Sidebar />
-      <Page>
-        <Feed edges={edges} />
-        <Pagination
-          prevPagePath={prevPagePath}
-          nextPagePath={nextPagePath}
-          hasPrevPage={hasPrevPage}
-          hasNextPage={hasNextPage}
-        />
-      </Page>
-    </Layout>
+        <Layout title={pageTitle} description={siteSubtitle}>
+            <Sidebar/>
+            <Page>
+                <Feed edges={edges}/>
+                <Pagination prevPagePath={prevPagePath} nextPagePath={nextPagePath}
+                            hasPrevPage={hasPrevPage} hasNextPage={hasNextPage}/>
+            </Page>
+        </Layout>
   );
 };
 

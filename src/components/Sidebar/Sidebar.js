@@ -8,16 +8,15 @@ import styles from './Sidebar.module.scss';
 
 export const PureSidebar = ({ data, isIndex }) => {
   const { author, menu } = data.site.siteMetadata;
-
   return (
-        <div className={styles['sidebar']}>
-            <div className={styles['sidebar__inner']}>
-                <Author author={author} isIndex={isIndex}/>
-                <Menu menu={menu}/>
-                <Contacts contacts={author.contacts}/>
-                <Copyright/>
-            </div>
+    <div className={styles['sidebar']}>
+        <div className={styles['sidebar__inner']}>
+            <Author author={author} isIndex={isIndex}/>
+            <Menu menu={menu}/>
+            <Contacts contacts={author.contacts}/>
+            <Copyright/>
         </div>
+    </div>
   );
 };
 
@@ -25,6 +24,7 @@ export const Sidebar = (props) => (
     <StaticQuery
         query={graphql`
       query SidebarQuery {
+
         site {
           siteMetadata {
             title
