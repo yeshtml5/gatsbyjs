@@ -1,13 +1,12 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
+  url: 'https://yeshtml5.com',
+  title: 'YESHTML5.com',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-121068312-1',
   menu: [
     {
       label: 'Articles',
@@ -23,16 +22,12 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'YESHTML5',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'GatsbyJS / ReactJS / NodeJS / HTML5 / CSS3',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'yeshtml5@gmail.com',
+      github: 'yeshtml5'
     }
   }
 };
