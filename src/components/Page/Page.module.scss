@@ -9,8 +9,9 @@
   }
 
   &__title {
+    color:#111;
     font-size: $typographic-base-font-size * 2.5;
-    font-weight: 600;
+    font-weight: 100;
     @include line-height(2);
     @include margin-top(0);
     @include margin-bottom(1.45);

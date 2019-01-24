@@ -11,3 +11,8 @@ draft: false
 
 #### Study
 - [nomadcoders](https://academy.nomadcoders.co/)
+
+#### Features specification
+     
+- [gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen)
+- [netlify](https://www.netlify.com/)

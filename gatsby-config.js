@@ -8,7 +8,6 @@ module.exports = {
     url: siteConfig.url,
     title: siteConfig.title,
     subtitle: siteConfig.subtitle,
-    copyright: siteConfig.copyright,
     disqusShortname: siteConfig.disqusShortname,
     menu: siteConfig.menu,
     author: siteConfig.author
@@ -157,7 +156,7 @@ module.exports = {
         short_name: siteConfig.title,
         start_url: '/',
         background_color: '#FFF',
-        theme_color: '#f75e28',
+        theme_color: '#18113d',
         display: 'standalone',
         icon: 'static/images/favicon.png'
       },
