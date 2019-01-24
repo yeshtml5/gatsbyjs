@@ -16,11 +16,13 @@ tags:
 ---
 ![](/media/99539d475be1574a13.png)
 
-결과보기: [https://codepen.io/P1N2O/pen/pyBNzX](https://codepen.io/P1N2O/pen/pyBNzX)
+
+#### 결과보기: [https://codepen.io/P1N2O/pen/pyBNzX](https://codepen.io/P1N2O/pen/pyBNzX)
 
 ```codepen
 https://codepen.io/P1N2O/pen/pyBNzX
 ```
+***
 
 ```
 body {
