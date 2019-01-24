@@ -2,7 +2,7 @@
 template: post
 title: css gradient animation
 slug: css gradient animation
-draft: true
+draft: false
 date: 2019-01-24T09:16:22.601Z
 description: |+
   웹페이지에서 배너작업 같은것을 할때 배경을 transition을 사용해서 에니메이션 작업할때
