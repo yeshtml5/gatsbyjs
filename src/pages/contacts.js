@@ -6,11 +6,10 @@ import Page from '../components/Page';
 const ContactTemplate = () => (
     <Layout>
         <Sidebar/>
-        <Page title="some text">
-           TEST
+        <Page title="making..">
+            page in progress
         </Page>
     </Layout>
 );
-
 
 export default ContactTemplate;
