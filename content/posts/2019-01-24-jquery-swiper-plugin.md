@@ -25,23 +25,24 @@ tags:
 
 이해가 될수있을것이다. 
 
-```
-        /*swiper*/
-        var _swiper = new Swiper('.target-wrap', {
-            paginationClickable: true,
-            slidesPerView: 1,
-            spaceBetween: 0,
-            nextButton: '.swiper-button-next',
-            prevButton: '.swiper-button-prev',
-            pagination: '.swiper-pagination',
-            paginationType: 'fraction',
-            autoHeight: true,
-            grabCursor: true,
-            onSlideChangeEnd: function (swiper) {
-                var index = swiper.activeIndex;
-              
-            }
-        });
+```javascript{}
+
+/*swiper*/
+var _swiper = new Swiper('.target-wrap', {
+    paginationClickable: true,
+    slidesPerView: 1,
+    spaceBetween: 0,
+    nextButton: '.swiper-button-next',
+    prevButton: '.swiper-button-prev',
+    pagination: '.swiper-pagination',
+    paginationType: 'fraction',
+    autoHeight: true,
+    grabCursor: true,
+    onSlideChangeEnd: function (swiper) {
+        var index = swiper.activeIndex;
+      
+    }
+});
 ```
 
 

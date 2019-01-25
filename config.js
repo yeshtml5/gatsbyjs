@@ -3,9 +3,9 @@
 module.exports = {
   url: 'https://yeshtml5.com',
   title: 'YESHTML5.com',
-  subtitle: '',
+  subtitle: 'GatsbyJS / ReactJS / NodeJS / HTML5 / CSS3',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 5,
   googleAnalyticsId: 'UA-121068312-1',
   menu: [
     {
@@ -36,7 +36,7 @@ module.exports = {
   author: {
     name: 'YESHTML5',
     photo: '/images/photo.jpg',
-    bio: 'GatsbyJS / ReactJS / NodeJS / HTML5 / CSS3',
+    bio: 'Service Developer',
     contacts: {
       email: 'yeshtml5@gmail.com',
       github: 'yeshtml5'

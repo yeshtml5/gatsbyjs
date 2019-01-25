@@ -7,6 +7,8 @@ import Meta from './Meta';
 import Tags from './Tags';
 import styles from './Post.module.scss';
 
+import 'gatsby-syntax-highlights-dracula';
+
 const Post = ({ post }) => {
   const {
     tags,
