@@ -3,11 +3,15 @@ import Layout from '../components/Layout';
 import Sidebar from '../components/Sidebar';
 import Page from '../components/Page';
 
+import ReactUtterences from 'react-utterances'
+
+const repo = 'yeshtml5/blog-comments'
 const ContactTemplate = () => (
     <Layout>
         <Sidebar/>
+
         <Page title="making..">
-            page in progress
+            <ReactUtterences repo={repo} type={'pathname'} />
         </Page>
     </Layout>
 );
