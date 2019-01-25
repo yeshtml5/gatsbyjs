@@ -31,7 +31,7 @@ const Post = ({ post }) => {
                 <Tags tags={tags} tagSlugs={tagSlugs}/>
             </div>
             <div className={styles['post__comments']}>
-                <ReactUtterences repo={repo} type={'pathname'}/>
+                <ReactUtterences repo={repo} type={'url'}/>
             </div>
             {/* not use <div className={styles['post__comments']}><Comments postSlug={post.fields.slug} postTitle={post.frontmatter.title} /></div> */}
         </div>
