@@ -1,6 +1,7 @@
 ---
 template: page
-title: "Libraries & Useful link"
+title: Libraries & Useful link
+slug: link
 draft: false
 ---
 
@@ -20,4 +21,5 @@ draft: false
 - [netlifycms](https://www.netlifycms.org) : static + content management
 - [gatsbyjs](https://www.gatsbyjs.org/) : static site generators
 - [gatsby-line-highlights-dracula](https://github.com/iamskok/gatsby-line-highlights-dracula) : prismjs highlights theme
-- https://utteranc.es/
+- [utteranc](https://utteranc.es) : add comments from github issue
+
