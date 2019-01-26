@@ -1,7 +1,7 @@
 ---
 template: page
 title: Libraries & Useful link
-slug: link
+slug: ' '
 draft: false
 ---
 
