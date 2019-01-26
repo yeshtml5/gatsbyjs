@@ -26,7 +26,7 @@ module.exports = {
     },
     {
       label: 'Libraries & link',
-      path: '/link'
+      path: '/pages/link'
     },
     {
       label: 'Contac me',
