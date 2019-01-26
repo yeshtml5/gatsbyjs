@@ -4,10 +4,10 @@ title: About me
 slug: about
 draft: false
 ---
-## careers
+##
 
 ## trace
-  designer -> flash developer -> publisher ->front-end developer -> service-developer
+ Designer -> Flash developer -> Publisher -> Front-end developer -> Service-developer
 
 ### BOScoin
 - <https://boscoin.io>
