@@ -1,12 +1,36 @@
 ---
-title: "About me"
-template: "page"
+template: page
+title: About me
+slug: about
+draft: false
 ---
+## careers
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+## trace
+> designer -> flash action script developer 
+-> publisher - > front-end developer -> service developer
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+### BOScoin
+- <https://boscoin.io>
+- 2018.01 - now
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+  #### Service
+  - <https://boscoin.io>
+  - <http://arist.io>
+  
+  #### Develop
+  - <https://github.com/owlchain/owlchain-core>
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+### Vinylc
+- <http://www.vinylc.com>
+- 2008.07 - 2018.12
+  
+  #### Service 
+  - <https://www.tworld.co.kr>
+  - <http://shop.tworld.co.kr>
+  - <https://www.kyobo.co.kr>
+  - <https://www.hyundai.com>
+ 
+  #### Develop
+  - <http://playseoulbrand.kr/>
+  - <https://github.com/owlchain/owlchain-core>
