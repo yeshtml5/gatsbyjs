@@ -5,12 +5,9 @@ slug: about
 draft: false
 ---
 ## careers
----
+
 ## trace
-
 `designer -> flash developer -> publisher-> front-end developer -> service > developer`
-
----
 ### BOScoin
 - <https://boscoin.io>
 - 2018.01 - now
