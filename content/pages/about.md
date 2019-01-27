@@ -7,29 +7,29 @@ draft: false
 ##
 
 ## trace
- Designer -> Flash developer -> Publisher -> Front-end developer -> Service-developer
+-  Designer -> Flash developer -> Publisher -> Front-end developer -> Service-developer
 
 ### BOScoin
 - <https://boscoin.io>
 - 2018.01 - now
 
   #### Service
-  - <https://boscoin.io>
-  - <http://arist.io>
+- <https://boscoin.io>
+- <http://arist.io>
 
   #### Develop
-  - <https://github.com/owlchain/owlchain-core>
+- <https://github.com/owlchain/owlchain-core>
 
 ### Vinylc
 - <http://www.vinylc.com>
 - 2008.07 - 2018.12
   
   #### Service 
-  - <https://www.tworld.co.kr>
-  - <http://shop.tworld.co.kr>
-  - <https://www.kyobo.co.kr>
-  - <https://www.hyundai.com>
+- <https://www.tworld.co.kr>
+- <http://shop.tworld.co.kr>
+- <https://www.kyobo.co.kr>
+- <https://www.hyundai.com>
  
   #### Develop
-  - <http://playseoulbrand.kr/>
-  - <https://github.com/owlchain/owlchain-core>
+- <http://playseoulbrand.kr/>
+- <https://github.com/owlchain/owlchain-core>
