@@ -38,4 +38,3 @@ draft: false
  
   #### Develop
 - <http://playseoulbrand.kr/>
-- <https://github.com/owlchain/owlchain-core>
