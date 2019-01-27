@@ -9,12 +9,12 @@ draft: false
 * mail : yeshtml5@gmail.com
 * github : <https://github.com/yeshtml5>
 * devSite : <https://dev.yeshtml5.com>
-***
+
 ## trace
 * Designer -> Flash developer -> Publisher -> Front-end developer
 
    -> __Service-developer__
----
+
 ### BOScoin
 - <https://boscoin.io>
 - 2018.01 - now
