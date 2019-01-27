@@ -7,7 +7,9 @@ draft: false
 ##
 
 ## trace
--  Designer -> Flash developer -> Publisher -> Front-end developer -> Service-developer
+* Designer -> Flash developer -> Publisher -> Front-end developer
+
+   -> __Service-developer__
 
 ### BOScoin
 - <https://boscoin.io>
