@@ -34,13 +34,11 @@ sudo apachectl start
 이미 실행된상태에서 같은 명령어를 실행하면\
 _/System/Library/LaunchDaemons/org.apache.httpd.plist: service already loaded_   같은 메시지 나올것이다.
 
-### \[아파치 설정]
+### \[php 사용가능하도록 아파치 설정]
 
 ```
 sudo vi /etc/apache2/httpd.conf  
 ```
-
-( 다른 에디터를 사용해도 괜찮다. )
 
 ![](/media/997a693b5bf3c0e103.png)
 
@@ -51,23 +49,21 @@ sudo vi /etc/apache2/httpd.conf
 에서 "#" 를 제거한다.
 
 ### DocumentRoot 설정
+ DocumentRoot에서 원하는 폴더로 설정하자
 
-![]()
-
-![]()
-
+![](/media/99a52e3b5bf3c0e230.png)
+```
 sudo vi /etc/apache2/httpd.conf\
-( /DocumentRoot 로 검색하자)
-DocumentRoot에서 원하는 폴더로 설정하자
+```
+`( /DocumentRoot 로 검색하자)`
+
 
 vi에디터에서는 :wq  로 저정하자. 
-
 그리고 아파치 재실행명령어
 
+```
 sudo apachectl restart
+``` 
 
-를 해주자.
-
-그리고 필자보다 더욱더 자세히 적은 글은 다음 링크로 대체한다. 
-
-https://websitebeaver.com/set-up-localhost-on-macos-high-sierra-apache-mysql-and-php-7-with-sslhttps#create-sites-folder
+그리고 필자보다 더욱더 자세히 적은 글은 다음 링크로 대체한다.   
+<https://websitebeaver.com/set-up-localhost-on-macos-high-sierra-apache-mysql-and-php-7-with-sslhttps#create-sites-folder>
