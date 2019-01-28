@@ -37,7 +37,7 @@ jquery 기반으로 된 플러그인을 소개한다.
 
 아래의 코드로 실사용예를 보여준다.    
  아래코드는  PHP 기반으로 환경변수 설정해서 다른 코드가 있는데 결국 순서대로 js 가져와서 쓰면된다. 
-```
+```javascript
 <!--타이머시작-->
 <script type="text/javascript" src="<?= __PATH__; ?>src/js/lib/moment.min.js"></script>
 <script type="text/javascript" src="<?= __PATH__; ?>src/js/lib/moment-timezone-with-data.min.js"></script>
