@@ -7,7 +7,7 @@ date: 2019-01-28T08:47:58.578Z
 description: |-
   Javascript confirm 팝업에 대해서,  취소/ 확인을 했을경우 특정 이벤트 혹은 액션을 하고싶을때,  명령어 해두었다. 
   복사해서 필요할때 사용했으면 한다. 
-category: Front-end
+category: Front-End
 tags:
   - javascript
 ---
