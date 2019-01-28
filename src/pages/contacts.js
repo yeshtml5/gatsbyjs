@@ -1,15 +1,16 @@
 //* Core
 import React from 'react';
 import ReactUtterences from 'react-utterances';
+import axios from 'axios';
 import Layout from '../components/Layout';
 import Sidebar from '../components/Sidebar';
 import Page from '../components/Page';
-
 
 class ContactTemplate extends React.Component {
     //* const
     repo = 'yeshtml5/blog-comments';
 
+    //* function
     render() {
       return (
             <Layout>

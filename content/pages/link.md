@@ -14,6 +14,8 @@ draft: false
 #### Study
 - [nomadcoders](https://academy.nomadcoders.co/) : video tutorial
 - [reactjs turorial](https://reactjs.org/tutorial/tutorial.html) : tutorial reactjs
+- [devdocs.io](https://devdocs.io/javascript/) : development language list documentation
+                                                 
 
 #### Features specification
 - [gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) : starter for creating blogs
