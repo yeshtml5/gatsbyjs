@@ -55,7 +55,7 @@ sudo vi /etc/apache2/httpd.conf
 ```
 sudo vi /etc/apache2/httpd.conf\
 ```
-`( /DocumentRoot 로 검색하자)`
+`/DocumentRoot` 로 검색하면 쉽게 찾을수있다.
 
 
 vi에디터에서는 :wq  로 저정하자. 
