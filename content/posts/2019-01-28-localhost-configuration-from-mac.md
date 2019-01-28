@@ -53,7 +53,7 @@ sudo vi /etc/apache2/httpd.conf
 
 ![](/media/99a52e3b5bf3c0e230.png)
 ```
-sudo vi /etc/apache2/httpd.conf\
+sudo vi /etc/apache2/httpd.conf
 ```
 `/DocumentRoot` 로 검색하면 쉽게 찾을수있다.
 
