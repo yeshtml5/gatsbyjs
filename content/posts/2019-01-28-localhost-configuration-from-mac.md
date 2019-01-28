@@ -50,13 +50,12 @@ sudo vi /etc/apache2/httpd.conf
 
 에서 "#" 를 제거한다.
 
+### DocumentRoot 설정
 
+![]()
 
-1. ![]()
-   ![]()
-   ![]()
+![]()
 
-DocumentRoot 설정
 sudo vi /etc/apache2/httpd.conf\
 ( /DocumentRoot 로 검색하자)
 DocumentRoot에서 원하는 폴더로 설정하자
