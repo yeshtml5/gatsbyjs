@@ -29,35 +29,35 @@ h6 {
 
 h1 {
   font-size: $typographic-base-font-size * 2.5;
-  @include line-height(2);
+  @include line-height(1);
   @include margin-top(4);
   @include margin-bottom(1);
 }
 
 h2 {
   font-size: $typographic-base-font-size * 1.6875;
-  @include line-height(1.5);
-  @include margin-top(2);
-  @include margin-bottom(.5);
+  @include line-height(1);
+  @include margin-top(1);
+  @include margin-bottom(1);
 }
 
 h3 {
   font-size: $typographic-base-font-size * 1.375;
-  @include line-height(1);
-  @include margin-top(2);
+  @include line-height(0.6);
+  @include margin-top(1.5);
   @include margin-bottom(.5);
 }
 
 h4 {
   font-size: $typographic-base-font-size * 1.2;
-  @include line-height(1);
-  @include margin-top(1.5);
-  @include margin-bottom(.5);
+  @include line-height(0.3);
+  @include margin-top(1);
+  @include margin-bottom(1);
 }
 
 h5 {
   font-size: $typographic-base-font-size;
-  @include line-height(1);
+  @include line-height(0.2);
   @include margin-top(2.5);
   @include margin-bottom(.5);
 }
@@ -77,17 +77,13 @@ img {
 }
 
 hr {
-  margin-top: 52px;
-  margin-bottom: 52px;
-  border: 0;
-  color: $color-base;
   display: block;
-  height: 26px;
+  width: 100%;
   margin-right: auto;
   margin-left: auto;
-  background-size: 100% 26px;
-  background-image: linear-gradient(to bottom, transparent 1px, transparent 11px, $color-base 11px, $color-base 15px, transparent 15px, transparent 26px);
-  width: 100px;
+  border: 0;
+  border-bottom:1px solid #ccc;
+  padding:5px 0;
 }
 
 a {
@@ -113,7 +109,7 @@ ul {
 
   & li {
     padding: 0 5px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
   }
 
 }
