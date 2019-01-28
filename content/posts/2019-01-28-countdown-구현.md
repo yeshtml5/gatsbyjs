@@ -2,7 +2,7 @@
 template: post
 title: Countdown 구현
 slug: jquery-countdown
-draft: true
+draft: false
 date: 2019-01-28T09:48:21.406Z
 description: |-
   이벤트 특히 쇼핑몰쪽에서 마감세일 등 종료시간 임박!! 등 시간을 역순으로 보여줄 필요가 있다.  
