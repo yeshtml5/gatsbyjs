@@ -7,6 +7,8 @@ draft: false
 
 ####  Util
 - [Blueprint]("https://blueprintjs.com/docs/#core")
+- [codebeautify]("https://codebeautify.org/")
+- [jsfiddle]("https://jsfiddle.net/boilerplate/react-jsx")
 
 #### JAMstack
 - [headlesscms](https://headlesscms.org/)
