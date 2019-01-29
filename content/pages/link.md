@@ -28,5 +28,4 @@ draft: false
 - [utteranc](https://utteranc.es) : add comments from github issue
 
 ####  Design
-
-
+- [uigradients](https://uigradients.com/#Mirage) : make gradients
