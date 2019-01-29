@@ -2,7 +2,7 @@
 template: post
 title: utterances 적용기
 slug: utterances-apply
-draft: true
+draft: false
 date: 2019-01-29T04:01:02.174Z
 description: |
   static site generator 를 사용하면서, 코멘트 정도 달수있는 위젯을 검토하던중, utterances 발견하고, 적용하고
