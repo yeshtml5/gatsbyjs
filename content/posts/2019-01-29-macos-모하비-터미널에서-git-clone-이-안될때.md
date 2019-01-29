@@ -1,6 +1,6 @@
 ---
 template: post
-title: macOS(모하비) 터미널에서 git clone 이 안될때
+title: macOS(Mojave)에서 git clone 이 안될때
 slug: osx-git-error
 draft: false
 date: 2019-01-29T02:51:11.990Z
