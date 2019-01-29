@@ -7,7 +7,7 @@ date: 2019-01-29T04:01:02.174Z
 description: |
   static site generator 를 사용하면서, 코멘트 정도 달수있는 위젯을 검토하던중, utterances 발견하고, 적용하고
   제작자에게 Pull request를 요청한 post이다.
-category: Experiance
+category: Experience
 tags:
   - utteranc
   - blog
