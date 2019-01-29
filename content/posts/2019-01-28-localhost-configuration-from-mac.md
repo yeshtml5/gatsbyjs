@@ -31,8 +31,9 @@ tags:
 sudo apachectl start
 ```
 
-이미 실행된상태에서 같은 명령어를 실행하면\
-_/System/Library/LaunchDaemons/org.apache.httpd.plist: service already loaded_   같은 메시지 나올것이다.
+이미 실행된상태에서 같은 명령어를 실행하면  
+> /System/Library/LaunchDaemons/org.apache.httpd.plist: service already loaded  
+ 같은 메시지 나올것이다.
 
 ### \[php 사용가능하도록 아파치 설정]
 
