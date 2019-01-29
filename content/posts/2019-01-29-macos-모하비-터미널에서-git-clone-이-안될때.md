@@ -28,8 +28,8 @@ git clone을 하던중에 갑자기 에러가 안나와서 고민하다, google�
 ![](/media/99df263d5c145b6e28.png)
 
 도움이 되었던, 사이트는 다음과 같다.  
+
 <https://apple.stackexchange.com/questions/254380/macos-mojave-invalid-active-developer-path>
 
-OSX Mojave 이후에 이런현상이 종종있는것같다.
-
+OSX Mojave 이후에 이런현상이 종종있는것같다.  
 일단 포스트해두고, 이런문제 고민했던 분이면 도움이 되었으면 좋겠다.
