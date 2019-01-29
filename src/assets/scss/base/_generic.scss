@@ -43,14 +43,14 @@ h2 {
 
 h3 {
   font-size: $typographic-base-font-size * 1.375;
-  @include line-height(0.6);
+  @include line-height(1);
   @include margin-top(1.5);
   @include margin-bottom(.5);
 }
 
 h4 {
   font-size: $typographic-base-font-size * 1.2;
-  @include line-height(0.3);
+  @include line-height(1);
   @include margin-top(1);
   @include margin-bottom(1);
 }
@@ -105,11 +105,13 @@ strong {
 
 ul {
   list-style: square;
+  box-sizing:border-box;
   @include margin-bottom(1);
 
   & li {
     padding: 0 5px;
     margin-bottom: 5px;
+    box-sizing:border-box;
   }
 
 }
