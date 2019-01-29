@@ -21,9 +21,7 @@ git clone을 하던중에 갑자기 에러가 안나와서 고민하다, google�
 에러메시지는 잘쓰다가, 모하비OS로 (다크테마를 쓰고싶었다.)\
 다시 clone을 하다보니, 아래와같은 형태가 되었다.
 
-```
-xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
-```
+> xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
 
 ![](/media/99df263d5c145b6e28.png)
 
