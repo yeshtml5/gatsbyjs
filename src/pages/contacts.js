@@ -10,14 +10,15 @@ import Page from '../components/Page';
 
 class ContactTemplate extends React.Component {
   //* function
+  repo = 'yeshtml5/blog-comments';
   render() {
     return (
-            <Layout>
-                <Sidebar/>
-                <Page title="Contac me">
-                    <ReactUtterences repo={this.repo} type={'pathname'}/>
-                </Page>
-            </Layout>
+      <Layout>
+        <Sidebar/>
+        <Page title="Contac me">
+          <ReactUtterences repo={this.repo} type={'pathname'}/>
+        </Page>
+      </Layout>
     );
   }
 }
