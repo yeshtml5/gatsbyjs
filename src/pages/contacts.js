@@ -6,21 +6,30 @@ import Layout from '../components/Layout';
 import Sidebar from '../components/Sidebar';
 import Page from '../components/Page';
 
-//
-
 class ContactTemplate extends React.Component {
-  //* function
-  repo = 'yeshtml5/blog-comments';
-  render() {
-    return (
-      <Layout>
-        <Sidebar/>
-        <Page title="Contac me">
-          <ReactUtterences repo={this.repo} type={'pathname'}/>
-        </Page>
-      </Layout>
-    );
-  }
+    //* const
+    repo = 'yeshtml5/blog-comments';
+
+    //* function
+    render() {
+      return (
+            <Layout>
+                <Sidebar/>
+                <section>
+                    <h1>FORM TESGING...</h1>
+                    <form name="contact" netlify netlify-honeypot="bot-field" hidden>
+                        <input type="text" name="name" />
+                        <input type="email" name="email" />
+                        <textarea name="message"></textarea>
+                    </form>
+
+                </section>
+                <Page title="Contac me">
+                    <ReactUtterences repo={this.repo} type={'pathname'}/>
+                </Page>
+            </Layout>
+      );
+    }
 }
 
 
