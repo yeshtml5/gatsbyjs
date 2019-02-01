@@ -7,7 +7,7 @@ date: 2019-02-01T02:02:55.865Z
 description: >
   어제 10시부터 yeshtml5.com 장애가 났다. 따로 서버설정으로 돌아가는것이 아니라 github 기반으로 "static page
   generator github" 방식이라 로그확인이 없어서 장애해결을 공유해본다.
-category: Experiance
+category: Experience
 tags:
   - netlify
   - error
