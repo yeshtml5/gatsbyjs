@@ -21,7 +21,6 @@ tags:
 일단 집에도착해서 다시 검토했다.
 
 ## What's the problem?
-
 - github는 잘돌아간다. 
 - gatsby develop && gatsby build  로컬에서 잘돌아간다.
 - netlify.com 관리자및 배포는 잘되었다.
