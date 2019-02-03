@@ -1,6 +1,6 @@
 ---
 template: post
-title: 'Set up root-path in Gatsbyjs. '
+title: 'set up root-path in Gatsbyjs. '
 slug: root-path-gatsbyjs
 draft: false
 date: 2019-02-03T12:09:04.335Z
@@ -34,14 +34,14 @@ yarn add --dev gatsby-plugin-root-import
 ## step2
 ** gatsby-config.js **에서  
 
-`
+```
 module.exports = {
   plugins: [ 
 
     'gatsby-plugin-root-import'
   ]
 }
-`  
+``` 
 기본설정은 src 로 설정되어있다.   
 
 > Webpack v4 drops resolve.root in favor of resolve.alias found here.  
@@ -49,9 +49,9 @@ If no options are specified, the plugin creates a default alias of src to your p
 This means you should be able to import modules like such:
 
 만약 바꾸고자한다면  
-`
-const path = require('path')
 
+```
+const path = require('path')
 module.exports = {
   plugins: [
     {
@@ -61,8 +61,9 @@ module.exports = {
         pages: path.join(__dirname, 'src/pages')
       }
     }
-  ]
+  ] 
 }
-`
+```
+
 ## 출처 및 참고  
 <https://www.gatsbyjs.org/packages/gatsby-plugin-root-import/>
