@@ -7,7 +7,7 @@ date: 2019-02-03T12:09:04.335Z
 description: |-
   Gatsbyjs 에서 Root 디렉토리를 설정하는법을 적어보자. 
   간단한 depth면 궂이 쓸필요는없을듯하나, depth가 길어지면 필요해 보인다.
-category: Front-end
+category: Front-End
 tags:
   - gatsbyjs
 ---
