@@ -21,15 +21,15 @@ gatsbyjs에서 depth가 길어지면 참고하고있는 상위 component 들은 
 2개이상일경우는 절대path를 설정하는법을 알아보자.   
 
 ## step1
-`npm install --save-dev gatsby-plugin-root-import`
-or
-`yarn add --dev gatsby-plugin-root-import`
-
+```
+npm install --save-dev gatsby-plugin-root-import
+or  
+yarn add --dev gatsby-plugin-root-import
+```
 2가지중 npm패키지를 사용하던 yarn으로 사용해서 설치하자
 
-
 ## step2
-** gatsby-config.js **에서  
+**gatsby-config.js** 에서    
 
 ```
 module.exports = {
