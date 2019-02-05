@@ -16,7 +16,7 @@ class ContactTemplate extends React.Component {
             <Layout>
                 <Sidebar/>
                 <section>
-                    <h1>FORM TESGING...</h1>
+                    <h1>Contact me</h1>
                     <form name="contact" netlify netlify-honeypot="bot-field" hidden>
                         <input type="text" name="name" />
                         <input type="email" name="email" />
