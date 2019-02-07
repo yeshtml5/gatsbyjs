@@ -1,6 +1,6 @@
 ---
 template: post
-title: Gatsbyjs setup
+title: '### Gatsbyjs setup'
 slug: gatsbyjs-setup
 draft: true
 date: 2019-01-30T06:54:57.049Z
