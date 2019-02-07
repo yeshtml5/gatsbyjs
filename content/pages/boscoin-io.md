@@ -7,4 +7,5 @@ draft: false
 ### name : BOScoin
 ### url : <https://boscoin.io>
 ### company : BlockchainOS Inc.
+### spec : Apache/PHP/MYSQL/Wordpress , HTML5/CSS3/jQuery/ 
 ### episode
