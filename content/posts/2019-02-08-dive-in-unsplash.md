@@ -1,8 +1,8 @@
 ---
 template: post
 title: Dive in unsplash
-slug: Dive in unsplash
-draft: true
+slug: Dive-in-unsplash
+draft: false
 date: 2019-02-07T15:44:29.941Z
 description: |-
   이미지를 가져와서 갤러리를 만들때, 참고하면 좋은사이트인 "unsplash" 를 소개하고자한다.  
