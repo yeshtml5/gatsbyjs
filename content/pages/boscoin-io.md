@@ -1,6 +1,6 @@
 ---
 template: page
-title: boscoin.io
+title: project-boscoin.io
 slug: project-2018-boscoin
 draft: false
 ---
