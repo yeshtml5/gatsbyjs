@@ -25,7 +25,7 @@ draft: false
 
   ##### Service
 
-* <https://boscoin.io> [[more]](/project-2018-boscoin)
+* <https://boscoin.io> **[[more]](/project-2018-boscoin)**
 * <http://arist.io>
 
   ##### Develop
