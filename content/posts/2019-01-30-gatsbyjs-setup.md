@@ -2,7 +2,7 @@
 template: post
 title: '### Gatsbyjs setup'
 slug: gatsbyjs-setup
-draft: true
+draft: false
 date: 2019-01-30T06:54:57.049Z
 description: gatsbyjs-setup
 category: Experience
