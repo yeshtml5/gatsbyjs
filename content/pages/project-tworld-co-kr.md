@@ -1,7 +1,7 @@
 ---
 template: page
 title: project-tworld.co.kr
-slug: project-2018-tworld
+slug: project-2017-tworld
 draft: false
 ---
 ### name : Tworld
