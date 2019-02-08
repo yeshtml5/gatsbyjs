@@ -13,9 +13,7 @@ draft: false
 ---
 
 ## trace
-* Designer -> Flash developer -> Publisher -> Front-end developer
-   
-   -> __Service-developer__
+* Designer ->Flash developer->Front-end developer->Service-developer
 
 ---
 
@@ -25,7 +23,7 @@ draft: false
 
   ##### Service
 
-* <https://boscoin.io> *[[more]](/project-2018-boscoin)*
+* <https://boscoin.io> **[[more]](/project-2018-boscoin)**
 * <http://arist.io>
 
   ##### Develop
@@ -33,10 +31,10 @@ draft: false
 
 ### Vinylc
 - <http://www.vinylc.com>
-- *2008.07 - 2018.12*
+- *2008.07 - 2017.12*
   
   ##### Service 
-- <https://www.tworld.co.kr>
+- <https://www.tworld.co.kr> **[[more]](/project-2017-tworld)**
 - <http://shop.tworld.co.kr>
 - <https://www.kyobo.co.kr>
 - <https://www.hyundai.com>
