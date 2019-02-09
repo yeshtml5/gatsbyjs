@@ -1,6 +1,6 @@
 ---
 template: post
-title: '### Gatsbyjs setup'
+title: Gatsbyjs setup
 slug: gatsbyjs-setup
 draft: false
 date: 2019-01-30T06:54:57.049Z
@@ -21,11 +21,15 @@ tags:
 ### gatsbyjs connect github
 
 ```
+example)
 https://github.com/yeshtml5/dev.git
 ```
 
 ### git commit & push
-* git push -f origin master
+```
+git push -f origin master
+```
 
 ## 참고사이트
 - <https://codeburst.io/build-a-blog-using-gatsby-js-react-8561bfe8fc91>
+
