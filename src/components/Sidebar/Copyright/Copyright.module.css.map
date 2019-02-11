@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;GAEG;ACFH;;GAEG;ACFH;;GAEG;ACFH;;GAEG;ACFH;;GAEG;ACCH,UAAW;EACT,KAAK,EAAE,sBAA0B;EACjC,SAAS,EAAE,IAAI",
+"sources": ["../../../assets/scss/_variables.scss","../../../assets/scss/mixins/_breakpoints.scss","../../../assets/scss/mixins/_margin.scss","../../../assets/scss/mixins/_padding.scss","../../../assets/scss/mixins/_line-height.scss","Copyright.module.scss"],
+"names": [],
+"file": "Copyright.module.css"
+}

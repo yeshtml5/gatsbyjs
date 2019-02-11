@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;GAEG;ACFH;;GAEG;ACFH;;GAEG;ACFH;;GAEG;ACFH;;GAEG;ACED,cAAS;EACP,OAAO,EAAE,YAAY;EACrB,aAAa,EAAE,CAAC;EAChB,aAAa,EAAE,GAAG;EAClB,eAAe,EAAE,WAAW;AAG9B,cAAS;EACP,SAAS,EAAE,IAAmC;EAC9C,WAAW,EAAE,GAAG;EDRhB,WAAW,EAAE,OAAyC;EFalD,MAAM,EAAE,aAAyH;EGDrI,mBAAO;IACL,KAAK,ELKmB,IAAW;IKHnC,oDACQ;MACN,KAAK,ELCiB,IAAW;AKMvC,iBAAY;EACV,KAAK,ELpBI,OAAyB;EKqBlC,SAAS,EAAC,IAAI;ED1Bd,WAAW,EAAE,IAAyC;EFItD,aAAa,EAAE,IAAyC",
+"sources": ["../../../assets/scss/_variables.scss","../../../assets/scss/mixins/_breakpoints.scss","../../../assets/scss/mixins/_margin.scss","../../../assets/scss/mixins/_padding.scss","../../../assets/scss/mixins/_line-height.scss","Author.module.scss"],
+"names": [],
+"file": "Author.module.css"
+}
