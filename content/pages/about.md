@@ -20,7 +20,7 @@ draft: false
 ---
 
 ### BOScoin
-- <https://boscoin.io>
+- <https://boscoin.io> [[more]](/project-2018-boscoin)
 - *2018.01 - now*
 
   ##### Service
@@ -36,7 +36,7 @@ draft: false
 - *2008.07 - 2018.12*
   
   ##### Service 
-- <https://www.tworld.co.kr>
+- <https://www.tworld.co.kr> [[more]](/project-2017-tworld)
 - <http://shop.tworld.co.kr>
 - <https://www.kyobo.co.kr>
 - <https://www.hyundai.com>
