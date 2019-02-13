@@ -1,34 +1,25 @@
-//* Core
+//* core
 import React from 'react';
-import ReactUtterences from 'react-utterances';
-import axios from 'axios';
 import Layout from '../components/Layout';
 import Sidebar from '../components/Sidebar';
 import Page from '../components/Page';
 
-class ContactTemplate extends React.Component {
-    //* const
-    repo = 'yeshtml5/blog-comments';
+import {Comments, FacebookProvider} from 'react-facebook';
 
+//* lib
+class ContactTemplate extends React.Component {
     //* function
     render() {
-      return (
+        return (
             <Layout>
                 <Sidebar/>
-                <section>
-                    <h1>FORM TESGING...</h1>
-                    <form name="contact" netlify netlify-honeypot="bot-field" hidden>
-                        <input type="text" name="name" />
-                        <input type="email" name="email" />
-                        <textarea name="message"></textarea>
-                    </form>
-
-                </section>
                 <Page title="Contac me">
-                    <ReactUtterences repo={this.repo} type={'pathname'}/>
+                    <FacebookProvider appId="356027551919150">
+                        <Comments href="http://www.yeshtml5.com"/>
+                    </FacebookProvider>
                 </Page>
             </Layout>
-      );
+        )
     }
 }
 
