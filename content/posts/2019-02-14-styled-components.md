@@ -15,14 +15,15 @@ tags:
 업계마다 조금씩 용어가 다를수있는데 웹스타일가이드(WSG) 라고해서 
 html의 태그요소와 클래스를 정의해둔다. 디자인적인 가이드이면서, 퍼블리셔들이 공통클래스를 정의해서 PL이 정의해두면 나머지는 페이지를 만들어내는것이다.   
 예들들면
-```css
+```css{}
 //Heading
 p{font-size:24px}
 p.warn{ 빨간색, 정신차려, }
 div.desc{설명글,자세히 읽어등..}
 ```
-나름 괜찮은방법이긴하지만, React로 넘어오면서 개발적으로 components화 시킬수있게
-```JavaScript
+나름 괜찮은방법이긴하지만, React로 넘어오면서 개발적으로 components화 시킬수있게  
+
+```javascript{}
 <Background minHeight="300px"/>
 //이미지를 라운드형 , 동그라미
 <Image rounded/>
