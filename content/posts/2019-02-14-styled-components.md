@@ -23,7 +23,7 @@ div.desc{설명글,자세히 읽어등..}
 ```
 나름 괜찮은방법이긴하지만, React로 넘어오면서 개발적으로 components화 시킬수있게  
 
-```javascript{}
+```jsx{}
 <Background minHeight="300px"/>
 //이미지를 라운드형 , 동그라미
 <Image rounded/>
