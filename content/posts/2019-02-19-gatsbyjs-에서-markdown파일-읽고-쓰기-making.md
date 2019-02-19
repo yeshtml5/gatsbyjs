@@ -14,7 +14,7 @@ tags:
 - gatsby-source-filesystem
 
 **gatsby-config.js** 에서
-```
+```javascript
     {
       resolve: `gatsby-source-filesystem`,
       options: {
