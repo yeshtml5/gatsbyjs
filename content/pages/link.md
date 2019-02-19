@@ -12,6 +12,7 @@ draft: false
 
 #### JAMstack
 - [headlesscms](https://headlesscms.org/)
+- [gatsbyjs lib](https://www.gatsbyjs.org/starters/?v=2)
 
 #### Study
 - [nomadcoders](https://academy.nomadcoders.co/) : video tutorial
