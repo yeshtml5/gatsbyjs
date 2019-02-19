@@ -1,8 +1,8 @@
 ---
 template: post
-title: How do you use docker?
+title: How do you use docker? (making)
 slug: about-docker
-draft: true
+draft: false
 date: 2019-02-18T06:51:29.138Z
 description: '도커는 컨테이너 기반의 오픈소스 가상화 플랫폼이다. dock에 관해서 스터디하면서, 괜찮은자료들, 정리해보았다.  '
 category: Back-End
