@@ -1,6 +1,6 @@
 ---
 template: post
-title: Gatsbyjs 에서 Markdown파일 읽고 쓰기. (making)
+title: Gatsbyjs 에서 Markdown파일 읽고 쓰기.
 slug: gatsbyjs-markdown
 draft: false
 date: 2019-02-19T04:07:51.002Z
