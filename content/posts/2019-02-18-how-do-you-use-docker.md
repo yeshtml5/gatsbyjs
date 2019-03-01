@@ -1,6 +1,6 @@
 ---
 template: post
-title: How do you use docker? (making)
+title: How do you use docker?
 slug: about-docker
 draft: false
 date: 2019-02-18T06:51:29.138Z
