@@ -13,7 +13,7 @@ tags:
 ---
 ## CSS Sticky 속성에 대해서
 
-먼저 결과부터 한번보자
+먼저 결과부터 한번보자  
 <https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_sticky_element>
 
 ```
