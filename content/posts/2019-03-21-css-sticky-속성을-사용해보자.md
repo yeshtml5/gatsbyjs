@@ -2,7 +2,7 @@
 template: post
 title: CSS Sticky 속성을 사용해보자
 slug: css-sticky
-draft: true
+draft: false
 date: 2019-03-21T01:47:57.740Z
 description: |-
   header영역의 nav에 많이 쓰이는 어느정도 스크롤이 되면 상단에 고정이 되어서, fixed되는 속성이 있다. 
@@ -13,7 +13,7 @@ tags:
 ---
 ## CSS Sticky 속성에 대해서
 
-먼저 결과부터 한번보자  
+먼저 결과부터 한번보자
 <https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_sticky_element>
 
 ```
