@@ -13,7 +13,8 @@ tags:
 ---
 ## CSS Sticky 속성에 대해서
 
-먼저 결과부터 한번보자
+먼저 결과부터 한번보자  
+
 <https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_sticky_element>
 
 ```
@@ -25,5 +26,5 @@ div.sticky {
 ```
 위와같이 사용하면 된다.
 
-### 동영상강
+### 동영상강좌 
 <https://www.youtube.com/watch?v=X68ZDGzs-_E>
