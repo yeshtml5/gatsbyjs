@@ -21,7 +21,7 @@ draft: false
 ### BOScoin
 
 * <https://boscoin.io> [[more]](/project-2018-boscoin)
-* _2018.01 - now_
+* _2018.01 - 2019.03_
   ##### Service
 * <https://boscoin.io>
 * <http://arist.io>
